@@ -1,2 +1,4 @@
-# Sample
-A sample of lab reports for various courses
+
+Hello and welcome to my github!
+
+# About me
