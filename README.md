@@ -8,3 +8,9 @@
 - :man_cook: Used to work in Michelin starred restaurants:
   - The Ninth - London, United Kingdom
   - Vue De Monde - Melbourne, Australia
+
+## Skills
+
+- Programming languages: R and Python
+- Big data: MapReduce, PySpark and Slurm
+- Business Intelligence: Tableau
