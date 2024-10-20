@@ -12,5 +12,6 @@
 ## Skills
 
 - Programming languages: R and Python
+- Machine learning packages: Keras and TensorFlow
 - Big data: MapReduce, PySpark and Slurm
 - Business Intelligence: Tableau
