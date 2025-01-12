@@ -23,8 +23,6 @@
 - Big Data Analytics
 - Computational Statistics
 - Decision Theory
-- Machine Learning
-- Research Project
 - Text Mining
 - Time Series and Sequence Learning
 - Visualization
