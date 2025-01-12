@@ -14,3 +14,17 @@
 - Machine learning packages: Keras and TensorFlow
 - Big data: MapReduce, PySpark and Slurm
 - Business Intelligence: Tableau
+
+## Courses
+- Advanced Data Mining
+- Advanced Machine Learning
+- Advanced R programming
+- Bayesian Learning
+- Big Data Analytics
+- Computational Statistics
+- Decision Theory
+- Machine Learning
+- Research Project
+- Text Mining
+- Time Series and Sequence Learning
+- Visualization
